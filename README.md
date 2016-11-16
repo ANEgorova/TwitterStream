@@ -1,4 +1,5 @@
-This repository for Java-project called ##Twitter Stream.    
+This repository for Java-project called 
+##Twitter Stream.    
 ###Used:
 Twitter API    
 ###Functionality: 
